@@ -1,4 +1,4 @@
-@extends('template')
+@extends('layouts.app')
 
 @section('content')
 <h3>Info Kegiatan</h3>
